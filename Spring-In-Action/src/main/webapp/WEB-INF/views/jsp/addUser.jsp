@@ -1,4 +1,4 @@
-<%@ page session="false"%>
+<%@ page session="false"%>  <!-- Add jst library for using these tags -->
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
